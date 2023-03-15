@@ -5,8 +5,8 @@
 ## Purpose
 
 ## Equipment that I used
-ESP32-CAM
-USB Mirco Data Cable
+! [ESP32-CAM]
+! [USB Mirco Data Cable]
 
 ## Links For Documentation
 ! [Link](https://github.com/CyberVirtuals/ESP-32-Router/blob/main/ESP%2032%20Project.png)
