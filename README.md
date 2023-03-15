@@ -5,7 +5,7 @@
 ## Purpose
 
 ## Equipment that I used
-ESP32-CAM
+..*ESP32-CAM
 USB Mirco Data Cable
 
 ## Links For Documentation
